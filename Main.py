@@ -2,7 +2,6 @@
 Program Deteksi Gempa
 """
 
-
 def ekstraksi_data():
     """
 tanggal     : 16 Oktober 2022
@@ -35,6 +34,7 @@ def tampilkan_data(result):
     print(f"5. koordinat : \n           {result['koordinat']}")
     print(f"6. pusat gempa : \n           {result['pusat gempa']}")
     print(f"7. dirasakan : \n           {result['dirasakan']}")
+
 
 
 

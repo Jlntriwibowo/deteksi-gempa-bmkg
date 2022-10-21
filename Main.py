@@ -14,3 +14,4 @@ if __name__ == '__main__' :
     print('Aplikasi Cuaca di Temanggung')
     result = Perkiraan_Cuaca.ekstraksi_data()
     Perkiraan_Cuaca.tampilkan_data(result)
+    print('thanks')
